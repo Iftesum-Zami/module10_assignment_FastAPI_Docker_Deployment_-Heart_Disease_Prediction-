@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+httpx
+transformers
+redis
+torch 
+torchvision
+torchaudio
+scikit-learn
+joblib
+numpy
+pandas
+pydantic
